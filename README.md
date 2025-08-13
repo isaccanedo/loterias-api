@@ -21,7 +21,7 @@
 ]
 ```
 
-### **Obtendo o Resultado Mais Recente**
+## **Obtendo o Resultado Mais Recente**
 
 URL BASE: ```https://loteriascaixa-api.herokuapp.com/api/<loteria>/latest```
 
